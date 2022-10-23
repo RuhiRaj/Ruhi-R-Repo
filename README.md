@@ -1,3 +1,2 @@
-# Ruhi-R-Repo
-
--all data structure and cpp code in cpp and c
+## Ruhi-R-Repo
+- All data structure and Algorithms code in cpp and c
