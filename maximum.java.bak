@@ -1,0 +1,18 @@
+class maximum{
+public static void main(String args[]){
+   int max=0,t;
+   try{
+	   max=Integer.parseInt(args[0]);
+	   for(int i=0;i<=agrs.length;i++)
+	   {
+		t=Integer.parseInt(args[1]); 
+         if( max<t)	
+           max=t;
+	   }
+   }
+   catch(Exception e){
+        System.out.println("error!");
+   }
+System.out.println("the maximum number is:"+max);  
+}
+}
